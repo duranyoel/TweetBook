@@ -18,8 +18,4 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.11.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Domain\V1\" />
-  </ItemGroup>
-
 </Project>
